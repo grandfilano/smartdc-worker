@@ -1,0 +1,7 @@
+name = "dc-vision-backend"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
+FIREBASE_PROJECT_ID = "YOUR_PROJECT_ID"
